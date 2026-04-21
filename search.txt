@@ -1,0 +1,32 @@
++------------------------+----------------------------------------------+----------------------------------------------+
+| TYPE                   | CHNO HOWA                                   | ACH KAYDIR / LFORO3                           |
++------------------------+----------------------------------------------+----------------------------------------------+
+| Supervised Learning    | learning b dataset فيها input + output       | kayt3allem l3ala9a bin X w Y                   |
+|                        | (labels kaynin)                             | w kay predict output jdida                    |
+|                        |                                              |                                              |
+|                        |                                              | FORO3:                                       |
+|                        |                                              | - Regression: kay3ti number                   |
+|                        |                                              | - Classification: kay3ti category             |
++------------------------+----------------------------------------------+----------------------------------------------+
+| Regression             | no3 mn supervised                           | kay predict value 3adadiya (number)           |
+|                        |                                              | ex: taman, salaire, temperature               |
++------------------------+----------------------------------------------+----------------------------------------------+
+| Classification         | no3 mn supervised                           | kay predict category                          |
+|                        |                                              | ex: spam / no spam, cat / dog                 |
++------------------------+----------------------------------------------+----------------------------------------------+
+| Unsupervised Learning  | learning b dataset بلا labels                | kayanalizi data w kayl9a patterns بوحدو       |
+|                        | (ghir inputs kaynin)                        |                                              |
+|                        |                                              | FORO3:                                       |
+|                        |                                              | - Clustering                                 |
+|                        |                                              | - Dimensionality Reduction                    |
+|                        |                                              | - Anomaly Detection                           |
++------------------------+----------------------------------------------+----------------------------------------------+
+| Clustering             | no3 mn unsupervised                         | kay9assem data l groups حسب tashaboh          |
+|                        |                                              | ex: group dyal nas shabab / kbar              |
++------------------------+----------------------------------------------+----------------------------------------------+
+| Dimensionality         | no3 mn unsupervised                         | kayna9es features w kaykhalli ghir lmohem     |
+| Reduction              |                                              | bach yb9a data sahla                          |
++------------------------+----------------------------------------------+----------------------------------------------+
+| Anomaly Detection      | no3 mn unsupervised                         | kayl9a data ghriba (machi normal)             |
+|                        |                                              | ex: transaction kbira bzaf                    |
++------------------------+----------------------------------------------+----------------------------------------------+|
