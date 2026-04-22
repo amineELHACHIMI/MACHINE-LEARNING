@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 x = []
 y = []
 
-for i in range(500):
+for i in range(50):
     xi = np.random.randint(0, 100)
     noise = np.random.randint(-1000, 1000)
 
@@ -22,7 +22,7 @@ y = y / np.max(y)
 
 w, b = 0, 0
 
-alpha = 0.000001
+alpha = 0.1
 iterations = 10000
 m = len(x)
 
@@ -42,7 +42,6 @@ for i in range(iterations):
 
 print("\nFinal w, b:", w, b)
 
-# plot
 plt.scatter(x, y, color='red')
 plt.plot(x, w*x + b, color='blue')
 plt.show()
