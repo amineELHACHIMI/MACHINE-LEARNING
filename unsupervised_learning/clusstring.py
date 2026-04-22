@@ -1,7 +1,7 @@
-import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
+import matplotlib.pyplot as plt
+import numpy as np
 
 # 🔹 1. Real-like dataset (clusters hidden)
 X, _ = make_blobs(
