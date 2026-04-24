@@ -19,7 +19,3 @@ import numpy
 # x = numpy.mean(speed)
 # print(x)
 ## it returned averge number of liste soo ((99+86+87+88+111+86+103+87+94+78+77+85+86) / 13 = 89.77)
-
-
-
-
