@@ -30,3 +30,13 @@
 | Anomaly Detection      | no3 mn unsupervised                         | kayl9a data ghriba (machi normal)             |
 |                        |                                              | ex: transaction kbira bzaf                    |
 +------------------------+----------------------------------------------+----------------------------------------------+|
+
+
+polimonial regrision ==>>
+                            overfitiing   ||    underfiting
+
+feature enginiring   input w1x    outpute is w2x2   for extartion area  for using in data not strict lainyer using this
+for normal this  w1x + w2x2 = b
+for feature enginiring using 
+x3 =  w1x * w2x2
+w1x + w2x2 + w3x3 + b
