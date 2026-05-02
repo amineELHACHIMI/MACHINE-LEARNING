@@ -31,9 +31,10 @@
 |                        |                                              | ex: transaction kbira bzaf                    |
 +------------------------+----------------------------------------------+----------------------------------------------+|
 
-
+search of thisss in my down
 polimonial regrision ==>>
                             overfitiing   ||    underfiting
+
 
 feature enginiring   input w1x    outpute is w2x2   for extartion area  for using in data not strict lainyer using this
 for normal this  w1x + w2x2 = b
